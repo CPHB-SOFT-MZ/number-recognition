@@ -1,0 +1,7 @@
+data/*
+data
+.idea
+.idea/*
+__pycahce__/*
+__pycache__
+
