@@ -10,9 +10,10 @@
 Clone this repository to your local machine.
 
 To install the prerequisites, assuming Python 3 is already installed, you can run these commands:
--```pip3 install --upgrade tensorflow```
--```pip3 install --upgrade matplotlib```
--```pip3 install --upgrade numpy```
+
+- ```pip3 install --upgrade tensorflow```
+- ```pip3 install --upgrade matplotlib```
+- ```pip3 install --upgrade numpy```
 
 Then you should be all set to run the project. 
 Change the directory to the cloned folder and run the project by typing in the following:
@@ -27,3 +28,4 @@ The first version of the project was simply a one neuron layer using the softmax
 
 The results ended up like this: 
 
+![alt text]()
