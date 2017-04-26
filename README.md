@@ -28,4 +28,8 @@ The first version of the project was simply a one neuron layer using the softmax
 
 The results ended up like this: 
 
-![alt text]()
+![alt text](https://github.com/ziemerz/number-recognition/blob/master/images/result-softmax.png)
+
+This means we start off with an accuracy of approximately 92.2%. This is OK for a start, but it's the last 7.8% that are the toughest. 
+Let's take a look. 
+
